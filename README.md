@@ -23,7 +23,7 @@ O projeto consiste nos seguintes arquivos principais:
 1. Clone o repositório:
 
     ```bash
-    git clone 
+    git clone git@github.com:Alvesflstk/API_NASA_PYTHON.git
     ```
 
 2. Instale as dependências:
